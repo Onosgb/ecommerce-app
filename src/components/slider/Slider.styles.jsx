@@ -38,11 +38,11 @@ export const Slide = styled.div`
   height: 100vh;
   display: flex;
   align-items: center;
-  background-color: #${(props) => props.gb};
+  background-color: #${(props) => props.bg};
 `;
 
 export const ImgContainer = styled.div`
-  height: 90%;
+  height: 100%;
   width: 50%;
   flex: 1;
 `;

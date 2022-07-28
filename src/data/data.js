@@ -11,7 +11,7 @@ export const sliderItems = [
     img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/S/P/100305_1530276427.jpg",
     title: "POPULAR SALES",
     desc: "DON'T COMPROMISE ON STYLE! GET A FLAT 30% OFF NEW ARRIVAL.",
-    bg: "f5fafd",
+    bg: "f8f9fa",
   },
   {
     id: 3,
@@ -25,17 +25,17 @@ export const sliderItems = [
 export const categories = [
   {
     id: 1,
-    img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/E/Y/54396_1650638085.jpg",
+    img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/H/Z/171630_1591892829.jpg",
     title: "SHIRT STYLE",
   },
   {
     id: 2,
-    img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/I/A/172736_1591137061.jpg",
-    title: "lOUNGEWEAR LOVVE",
+    img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/N/C/141869_1565641915.jpg",
+    title: "LOUNGEWEAR LOVE",
   },
   {
     id: 3,
-    img: "https://www.istockphoto.com/photo/pale-light-pink-elegant-woman-autumn-coat-isolated-white-gm868094982-144615515",
+    img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/I/T/56861_1572970030.jpg",
     title: "LIGHT JACKETS",
   },
 ];
