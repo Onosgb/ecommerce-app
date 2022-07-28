@@ -39,3 +39,38 @@ export const categories = [
     title: "LIGHT JACKETS",
   },
 ];
+
+export const popularProducts = [
+  {
+    id: 1,
+    img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/U/J/138300_1606917114.jpg",
+  },
+  {
+    id: 2,
+    img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/V/Q/68097_1648482997.jpg",
+  },
+  {
+    id: 3,
+    img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/M/L/193075_1655504105.jpg",
+  },
+  {
+    id: 4,
+    img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/J/Q/193075_1655481909.jpg",
+  },
+  {
+    id: 5,
+    img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/Z/H/193075_1655481671.jpg",
+  },
+  {
+    id: 6,
+    img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/O/M/111986_1635009361.jpg",
+  },
+  {
+    id: 7,
+    img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/J/Q/193075_1655481909.jpg",
+  },
+  {
+    id: 8,
+    img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/V/Q/68097_1648482997.jpg",
+  },
+];
