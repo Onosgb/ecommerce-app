@@ -28,7 +28,7 @@ const Footer = () => {
   return (
     <Container>
       <Left>
-        <Logo>ZAPA.</Logo>
+        <Logo>ZAPAA.</Logo>
         <Desc>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque quam
           reiciendis optio cumque assumenda corrupti saepe architecto expedita
