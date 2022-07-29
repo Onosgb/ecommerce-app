@@ -73,4 +73,14 @@ export const popularProducts = [
     id: 8,
     img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/V/Q/68097_1648482997.jpg",
   },
+
+  {
+    id: 9,
+    img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/J/L/119914_1658063455.jpg",
+  },
+
+  {
+    id: 10,
+    img: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/H/L/87573_1625136788.jpg",
+  },
 ];
