@@ -27,7 +27,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>ZAZA.</Logo>
+          <Logo>ZAPA.</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>
