@@ -1,6 +1,6 @@
 import React from "react";
-import { Search, ShoppingCartOutlined } from "@material-ui/icons";
-import Badge from "@material-ui/core/Badge";
+import { Search, ShoppingCartOutlined } from "@mui/icons-material";
+import Badge from "@mui/material/Badge";
 
 import {
   Wrapper,
@@ -27,7 +27,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>ZAPAA.</Logo>
+          <Logo>ZAZZI.</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>

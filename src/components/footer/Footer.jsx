@@ -6,7 +6,7 @@ import {
   Room,
   Phone,
   MailOutline,
-} from "@material-ui/icons";
+} from "@mui/icons-material";
 
 import {
   Container,
@@ -28,7 +28,7 @@ const Footer = () => {
   return (
     <Container>
       <Left>
-        <Logo>ZAPAA.</Logo>
+        <Logo>ZAZZI.</Logo>
         <Desc>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque quam
           reiciendis optio cumque assumenda corrupti saepe architecto expedita

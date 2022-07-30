@@ -3,7 +3,7 @@ import {
   ShoppingCartOutlined,
   SearchOutlined,
   FavoriteBorderOutlined,
-} from "@material-ui/icons";
+} from "@mui/icons-material";
 
 const Info = styled.div`
   opacity: 0;
